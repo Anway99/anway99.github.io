@@ -19,3 +19,7 @@ header,
     -o-background-size: cover;
     background-size: cover;
 }
+
+.red-color {
+	color: red;
+}
