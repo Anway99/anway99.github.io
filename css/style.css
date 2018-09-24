@@ -23,3 +23,8 @@ header,
 .red-color {
 	color: red;
 }
+
+.nav-link:hover {
+	background-color: #b8b890;
+	color: red;
+}
