@@ -28,3 +28,33 @@ header,
 	background-color: #b8b890;
 	color: red;
 }
+
+.new-self {
+	font: 25px Bold;
+	font-family: 'Chicle', sans-serif;
+}
+
+.each-heading {
+	text-align: center;
+	font: 35px Bold;
+	font-family: 'Anton', sans-serif;
+}
+
+.bgcol1 {
+	color: red;
+}
+
+.bord1 {
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+}
+
+.bolder1 {
+	border: 6px solid grey;
+}
+
+.attack-mention {
+	font: 30px Bold;
+	text-align: center;
+	font-family: 'Arvo', serif;
+}
