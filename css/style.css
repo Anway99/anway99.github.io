@@ -58,3 +58,12 @@ header,
 	text-align: center;
 	font-family: 'Arvo', serif;
 }
+
+.defn {
+	font: 20px Bold;
+	font-family: 'Fredoka One', cursive;
+}
+
+.horiz1 {
+	width: 40%;
+}
