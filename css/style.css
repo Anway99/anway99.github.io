@@ -3,6 +3,7 @@
 	border: 2px dotted #1B6EC5;
 	margin: 2px;
 	height: 100%;
+	box-shadow: 5px 2px 2px grey;
 }
 
 html,
