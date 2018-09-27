@@ -14,6 +14,13 @@ $.fn.scrollView = function () {
     });
 }
 
+/* Script for first topic */
+$('.tryhead').click(function (event) {
+        event.preventDefault();
+        $('#mainintro').scrollView();
+});
+
+
 /* Scripts for slider on same page loads */
 
 //Phishing
