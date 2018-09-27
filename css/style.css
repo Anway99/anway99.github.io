@@ -69,3 +69,11 @@ header,
 .horiz1 {
 	width: 40%;
 }
+
+.goright {
+	float: right;
+}
+
+.goleft {
+	float: left;
+}
